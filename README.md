@@ -1,4 +1,4 @@
-# gemini backend clone
+# Scalable-AI-Chat-Core
 
 This project is a scalable backend API that allows users to send chat messages and receive AI-generated responses (via Google Gemini) using RQ (Redis Queue) for background task processing and Redis for task/result storage.
 
